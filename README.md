@@ -6,4 +6,4 @@ npm install安装依赖库，npm start启动，默认地址为http://localhost:3
 
 ## Modal
 
-Modal的实现参考了https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571，对作者深表感谢。
+Modal的实现参考了[https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571] ，对作者深表感谢。
